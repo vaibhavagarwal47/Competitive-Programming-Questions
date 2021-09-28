@@ -12,15 +12,15 @@ You can use following Programming languages:
 
 ## Popular questions in
 
-* [Hackerrank](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/Hackerrank)
-* [Codechef](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/CodeChef)
-* [Codeforces](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/CodeForces)
-* [Leetcode](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/LeetCode)
-* [GeeksForGeeks](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/GeeksForGeeks)
-* [HackerBlocks](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/HackerBlocks)
-* [450-Question-Series](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/450-Question-Series)
-* [Data-Structures](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/450-Question-Series)
-* [Algorithms](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/tree/main/450-Question-Series)
+* [Hackerrank](https://hackerrank.com)
+* [Codechef](https://codechef.com)
+* [Codeforces](https://codeforces.com)
+* [Leetcode](https://leetcode.com)
+* [GeeksForGeeks](https://practice.geeksforgeeks.org)
+* [HackerBlocks](https://hack.codingblocks.com)
+* [450-Question-Series](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+* [Data-Structures]()
+* [Algorithms]()
 
 ## Overview
 
@@ -31,11 +31,11 @@ The main aim of the project is to bring all the Interview and Competitive progra
    <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/Fork.png"></img>
 2. Clone this repo in your local via:  
 ```
-git clone https://github.com/<your-username>/Competitive-Programming-Questions/
+ git clone https://github.com/<your-username>/Competitive-Programming-Questions/
 ```
 3. Go to the directory:
 ```
-cd Competitive-Programming-Questions
+ cd Competitive-Programming-Questions
 ```
 4. Add questions and answers try to follow templates given here:<br>
    - [C](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/templates/C.cpp)
@@ -45,15 +45,15 @@ cd Competitive-Programming-Questions
    
 5. Now add the folder:
 ```
-git add <folder/ file name>
+ git add <folder/ file name>
 ```
 6. Commit Code with meaningful message:
 ```
-git commit -m "YOUR-MESSAGE"
+ git commit -m "YOUR-MESSAGE"
 ```
 7. Now push the commit:
 ```
-git push origin main
+ git push origin main
 ```
 8. Now visit your forked repo and create a pull request:
   <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/PR.png"></img>
