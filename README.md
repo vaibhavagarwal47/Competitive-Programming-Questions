@@ -38,10 +38,10 @@ git clone https://github.com/<your-username>/Competitive-Programming-Questions/
 cd Competitive-Programming-Questions
 ```
 4. Add questions and answers try to follow templates given here:<br>
-   - [C]()
-   - [C++]()
-   - [Python]()
-   - [Java]()
+   - [C](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/templates/C.cpp)
+   - [C++](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/templates/C%2B%2B.cpp)
+   - [Python](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/templates/python.py)
+   - [Java](https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/templates/java.java)
    
 5. Now add the folder:
 ```
