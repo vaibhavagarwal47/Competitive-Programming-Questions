@@ -26,6 +26,39 @@ You can use following Programming languages:
 
 The main aim of the project is to bring all the Interview and Competitive programming questions under one repository.
 
+## How to Contribute in this Repo:
+1. Fork this repo by clicking this button in top right corner: 
+   <img src=""></img>
+2. Clone this repo in your local via:  
+```
+git clone https://github.com/<your-username>/Competitive-Programming-Questions/
+```
+3. Go to the directory:
+```
+cd Competitive-Programming-Questions
+```
+4. Add questions and answers try to follow templates given here:<br>
+   - [C]()
+   - [C++]()
+   - [Python]()
+   - [Java]()
+   
+5. Now add the folder:
+```
+git add <folder/ file name>
+```
+6. Commit Code with meaningful message:
+```
+git commit -m "YOUR-MESSAGE"
+```
+7. Now push the commit:
+```
+git push origin main
+```
+8. Now visit your forked repo and create a pull request:
+  <img src=""></img>
+9. Sit back patiently and relax while your PR is reviewed 🌟.
+
 ## Contributors
 
 
