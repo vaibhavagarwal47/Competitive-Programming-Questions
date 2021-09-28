@@ -56,7 +56,7 @@ git commit -m "YOUR-MESSAGE"
 git push origin main
 ```
 8. Now visit your forked repo and create a pull request:
-  <img src=""></img>
+  <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/PR.png"></img>
 9. Sit back patiently and relax while your PR is reviewed 🌟.
 
 ## Contributors
