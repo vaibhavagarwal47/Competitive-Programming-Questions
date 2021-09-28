@@ -56,7 +56,7 @@ git commit -m "YOUR-MESSAGE"
 git push origin main
 ```
 8. Now visit your forked repo and create a pull request:
-  <img src=""></img>
+  <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/PR.png"></img>
 9. Sit back patiently and relax while your PR is reviewed 🌟.
 
 ## Contributors
@@ -79,3 +79,6 @@ In case of any help, please free to contact us via mail
 * sharma.rishix02@gmail.com
 
 <h1 align="center">Happy Coding 🧑‍💻</h1>
+<div align="center">
+<a href="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/vaibhavagarwal47/Competitive-Programming-Questions?style=for-the-badge" /></a>&nbsp;&nbsp; <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" />&nbsp;&nbsp; <a href="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vaibhavagarwal47/Competitive-Programming-Questions?style=for-the-badge" /></a>&nbsp;&nbsp; <a href="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/vaibhavagarwal47/Competitive-Programming-Questions?style=for-the-badge" /></a>
+	</div>
