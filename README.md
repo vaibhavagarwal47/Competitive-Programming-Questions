@@ -5,10 +5,10 @@ This repository contains Competitive Programming questions & solutions. The main
 > If you're practicing on the coding platforms mentioned above, also if you want to contribute those then you can add the questions in this repository.
 
 You can use following Programming languages:
-1) C
-2) C++
-3) Python
-4) Java
+* C
+* C++
+* Python
+* Java
 
 ## Popular questions in
 
