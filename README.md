@@ -1,4 +1,4 @@
-<h1 align="center">Competitive-Programming-Questions</h1>
+<h1 align="center">🖥 Competitive-Programming-Questions 🖥</h1>
 
 This repository contains Competitive Programming questions & solutions. The main aim of this repository is to help students who are preparing for the competitive programming and interview. This contains questions from popular coding platforms including Hackerank, Codechef, LeetCode, Codeforces, GeeksforGeeks and many more.
 
