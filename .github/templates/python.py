@@ -6,5 +6,5 @@
 def main():
     return 0
 
-def __init__():
+def __name__=="__main__":
     main()
