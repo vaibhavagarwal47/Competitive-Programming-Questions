@@ -1,5 +1,9 @@
 <h1 align="center">🖥 Competitive-Programming-Questions 🖥</h1>
-
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="70%">
+    </a>
+</p>
 This repository contains Competitive Programming questions & solutions. The main aim of this repository is to help students who are preparing for the competitive programming and interview. This contains questions from popular coding platforms including Hackerank, Codechef, LeetCode, Codeforces, GeeksforGeeks and many more.
 
 > If you're practicing on the coding platforms mentioned above, also if you want to contribute those then you can add the questions in this repository.
