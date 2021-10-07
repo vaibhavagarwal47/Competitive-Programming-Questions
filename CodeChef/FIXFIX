@@ -1,0 +1,45 @@
+#include <iostream>
+using namespace std;
+#define tc ll t sc cin>> t sc while(t--)
+#define sc;
+#define ll long long
+
+int main() {
+	tc{
+	    ll n,k;
+	    cin>>n>>k;
+	    if(n==1 && k==0)
+	    {
+	        cout<<"-1\n";
+	    }
+	    else if(n==1 && k==1)
+	    {
+	        cout<<"1\n";
+	    }
+	    else if(k==n-1)
+	    {
+	        cout<<"-1\n";
+	    }
+	    else
+	    {
+	        for(int i=1;i<=k;i++)
+	        {
+	            cout<<i<<" ";
+	        }
+	        for(int i=k+1;i<n;i++)
+	        {
+	            cout<<i+1<<" ";
+	        }
+	        
+	        if(k != n)
+	        {
+	         cout<<k+1<<"\n";
+	        }     
+	        else
+	        {
+	         cout<<"\n";
+	        }
+	    }
+	 }
+	return 0;
+}
