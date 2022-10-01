@@ -79,7 +79,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:  **Contributions** of a
 
 ## Contact Us
 In case of any help, please free to contact us via mail
-* vaibhavagarwal4627@gmail.com
+* vaibhavagg@duck.com
 * sharma.rishix02@gmail.com
 
 <h1 align="center">Happy Coding 🧑‍💻</h1>
