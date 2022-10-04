@@ -1,3 +1,23 @@
+// Question CODE: SORTSEGS
+// Question: https://www.codechef.com/SNCKEL21/problems/SORTSEGS
+/* Input:
+4
+6 4
+1 2 3 4 5 6
+6 4
+1 2 4 3 5 6
+6 4
+6 5 2 1 4 3
+6 4
+2 6 4 3 1 5
+*/
+/* Output:
+0
+1
+2
+3
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
  
