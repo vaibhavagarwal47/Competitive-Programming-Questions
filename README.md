@@ -26,11 +26,11 @@ You can use following Programming languages:
 * [Data-Structures]()
 * [Algorithms]()
 
-## Overview
+<!-- ## Overview 
 
-The main aim of the project is to bring all the Interview and Competitive programming questions under one repository.
+The main aim of the project is to bring all the Interview and Competitive programming questions under one repository. -->
 
-## How to Contribute in this Repo:
+## How to Contribute in this Repository:
 1. Fork this repo by clicking this button in top right corner: 
    <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/Fork.png"></img>
 2. Clone this repo in your local via:  
