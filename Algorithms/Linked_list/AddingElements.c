@@ -1,3 +1,9 @@
+//Q. adding the element to the head node of a given linked list
+//eg : before deletion : 2 5 8 9 7
+//eg : after deletion : 10 2 5 8 9 7
+
+
+
 #include <stdlib.h>
 #include <stdio.h>
 
