@@ -32,7 +32,7 @@ The main aim of the project is to bring all the Interview and Competitive progra
 
 ## How to Contribute in this Repository:
 1. Fork this repo by clicking this button in top right corner: 
-   <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/Fork.png"></img>
+   <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/Fork.png">
 2. Clone this repo in your local via:  
 ```
  git clone https://github.com/<your-username>/Competitive-Programming-Questions/
@@ -60,7 +60,7 @@ The main aim of the project is to bring all the Interview and Competitive progra
  git push origin main
 ```
 8. Now visit your forked repo and create a pull request:
-  <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/PR.png"></img>
+  <img src="https://github.com/vaibhavagarwal47/Competitive-Programming-Questions/blob/main/.github/images/PR.png">
 9. Sit back patiently and relax while your PR is reviewed 🌟.
 
 ## Contributors
