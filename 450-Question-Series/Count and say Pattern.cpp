@@ -61,5 +61,13 @@ string countAndSay(int n){
          return s;
     }   
 int main(){
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        Solution obj;
+        cout<<obj.countAndSay(n)<<endl;
+    }
     return 0;
 }
